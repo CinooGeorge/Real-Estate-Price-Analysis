@@ -106,10 +106,10 @@ The project includes:
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/CinooGeorge/real-estate-price-analysis.git
+git clone https://github.com/CinooGeorge/Real-Estate-Price-Analysis.git
 
 # Navigate to the project directory
-cd real-estate-price-analysis
+cd Real-Estate-Price-Analysis
 
 # Install required packages
 pip install -r requirements.txt
